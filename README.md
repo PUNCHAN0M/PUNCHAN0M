@@ -7,13 +7,15 @@
 🌐 การพัฒนาเว็บแอปพลิเคชันด้วยเทคโนโลยีล่าสุด
 📱 การพัฒนาแอปพลิเคชันมือถือแบบ Cross-platform
 
-🛠️ เครื่องมือและเทคโนโลยีที่ใช้
-javascriptCopyconst techStack = {
-    web: ['React.js', 'Next.js'],
+🛠️ เครื่องมือ
+```javascript
+const techStack = {
+    web: ['React.js', 'Next.js', 'Vite'],
     mobile: ['React Native', 'Expo'],
-    ai: ['TensorFlow', 'OpenCV', 'Python'],
-    tools: ['Git', 'VS Code', 'Docker']
+    ai: ['TensorFlow', 'OpenCV', 'Python', 'Tesseract', 'Scikit-learn'],
+    tools: ['Git', 'VS Code', 'Docker', 'Postman']
 }
+```
 
 🌱 สิ่งที่กำลังเรียนรู้
 การพัฒนา AI Models สำหรับ Image Processing
