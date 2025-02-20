@@ -2,11 +2,17 @@
 👨‍💻 Developer | AI | Data | Analytics
 
 👀 Interests:
-🖼️ Image Processing & Computer Vision
-🤖 Artificial Intelligence & Machine Learning
-🌐 Web Application Development with the Latest Technologies
-📱 Cross-platform Mobile App Development
-🛠️ Tech Stack:
+
+    🖼️ Image Processing & Computer Vision
+    
+    🤖 Artificial Intelligence & Machine Learning
+    
+    🌐 Web Application Development with the Latest Technologies
+    
+    📱 Cross-platform Mobile App Development
+    
+    🛠️ Tech Stack:
+    
 ```
 const techStack = {
     languages: ['JavaScript', 'TypeScript','Python'],
@@ -22,9 +28,11 @@ Developing AI Models for Image Processing
 Building Full-stack Applications with Next.js
 Developing Mobile Apps with Expo & React Native
 Optimizing Application Performance
+
 💞️ Looking for Collaborations:
 Computer Vision & Image Processing projects
 AI-powered Web Applications
+
 📫 Contact:
 LinkedIn: Pavananon Phanich
 Email: pavananonphanich@gmail.com
