@@ -35,5 +35,7 @@ Computer Vision & Image Processing projects
 AI-powered Web Applications
 
 📫 Contact:
-LinkedIn: Pavananon Phanich
+
+LinkedIn: [Pavananon Phanich](https://www.linkedin.com/in/pavananon-phanich-054320339/)
+
 Email: pavananonphanich@gmail.com
